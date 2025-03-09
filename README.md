@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a simple packet sniffer program that captures and analyzes network packets. It is designed for educational purposes to help understand network protocols and packet structures.
+This project is a simple packet sniffer program that captures and analyzes network packets using Scapy in Python on a Linux machine. It is designed for educational purposes to help understand network protocols and packet structures.
 
 ## Features
 
@@ -31,6 +31,6 @@ This project is a simple packet sniffer program that captures and analyzes netwo
 
 2. Run the packet sniffer:
    ```bash
-   sudo python3 packet_sniffer.py
+   sudo python3 PacketSniffer.py
    ```
 3. Use in conjunction with the previous [Network scanner](https://github.com/andymartinez1/Network-Scanner) and [ARP Spoofer](https://github.com/andymartinez1/ARP-Spoofer) projects for packet sniffing on specific devices.
